@@ -50,7 +50,6 @@ export function filterProductsByCategory(products, category) {
     : products;
 }
 
-
 /*
 La función loadProducts es la encargada de cargar los productos en la página.
 Lo hace determinando si vienen de la API o del JSON local, filtrándolos por categoría y mostrándolos en la página.
@@ -87,7 +86,6 @@ export async function loadProducts(page = 1) {
   updatePaginationLinks(page, totalPages, loadProducts);
 }
 
-
 /*
 Esta función es la encargada de extender la descripción de los productos.
 Por defecto, la descripción de los productos se muestra recortada a 3 líneas
@@ -105,12 +103,11 @@ export function extendsDescription() {
       if (description.classList.contains("description-extended")) {
         description.classList.remove("description-extended");
         this.textContent = "Ver más +";
-      } else {  
+      } else {
         description.classList.add("description-extended");
         this.textContent = "Ver menos -";
       }
-    }
-    );
+    });
   });
 }
 
@@ -151,7 +148,6 @@ export function renderProducts(products) {
       moreLink.href = "#";
       moreLink.textContent = "Ver más +";
       moreLink.classList.add("more-link");
-      
 
       const price = document.createElement("div");
       price.textContent = `${product.price} €`;
@@ -180,7 +176,7 @@ export function renderProducts(products) {
       const buyButton = document.createElement("button");
       buyButton.textContent = "Comprar";
       buyButton.classList.add("btn", "btn-login", "btn-buy");
-      
+
       buyButton.addEventListener("click", function () {
         const selectedSizeInput = cardBody.querySelector(
           'input[name="talla' + product.id + '"]:checked'
@@ -199,9 +195,8 @@ export function renderProducts(products) {
         });
         console.log("Producto añadido al carrito", product.title, selectedSize);
         // llamada para actualizar el carrito
-        
+
         cart.renderCart();
-        
       });
 
       const favButton = document.createElement("button");
@@ -227,7 +222,6 @@ export function renderProducts(products) {
 
       productsContainer.appendChild(productCard);
 
-      
       // Añado la clase loaded para que se visualice la animación de carga de los productos
       setTimeout(() => {
         productCard.classList.add("loaded");
@@ -278,7 +272,6 @@ function addSizes(product, cardBody) {
   }
 }
 
-
 /*
 La función manejador del menú de categorías se encarga de
 hacer un pushState al historial del navegador para que se actualice la URL
@@ -286,7 +279,7 @@ y se pueda navegar entre categorías.
 Además, llama a la función loadProducts para cargar los productos de la categoría seleccionada.
 */
 export function handleMenuLinks(event) {
-  const category = event.target.dataset.category; 
+  const category = event.target.dataset.category;
 
   if (category) {
     window.history.pushState(
@@ -294,10 +287,9 @@ export function handleMenuLinks(event) {
       null,
       `products.html?category=${category}`
     );
-    loadProducts(); 
+    loadProducts();
   }
 }
-
 
 /*
 Esta función es la encargada de añadir las clases necesarias para
@@ -356,32 +348,40 @@ con la finalidad que me muestre también paginado los productos filtrados por g�
 */
 export function updatePaginationLinks(currentPage, totalPages, callback) {
   const paginationContainer = document.querySelector(".pagination");
-  paginationContainer.innerHTML = "";
+  if (paginationContainer) {
+    paginationContainer.innerHTML = "";
+    const maxPagesToShow = 3; // Máximo de páginas a mostrar
+    let startPage = Math.max(currentPage - 1, 1);
+    let endPage = Math.min(startPage + maxPagesToShow - 1, totalPages);
 
-  const maxPagesToShow = 3; // Máximo de páginas a mostrar
-  let startPage = Math.max(currentPage - 1, 1);
-  let endPage = Math.min(startPage + maxPagesToShow - 1, totalPages);
+    // Ajustar si estamos cerca del final
+    if (endPage - startPage < maxPagesToShow - 1) {
+      startPage = Math.max(endPage - maxPagesToShow + 1, 1);
+    }
 
-  // Ajustar si estamos cerca del final
-  if (endPage - startPage < maxPagesToShow - 1) {
-    startPage = Math.max(endPage - maxPagesToShow + 1, 1);
+    // Botón 'Anterior'
+    createPaginationLink(
+      currentPage - 1,
+      "Anterior",
+      callback,
+      currentPage > 1
+    );
+
+    // Enlaces de página
+    for (let i = startPage; i <= endPage; i++) {
+      createPaginationLink(i, i.toString(), callback, true, currentPage === i);
+    }
+
+    // Botón 'Siguiente'
+    createPaginationLink(
+      currentPage + 1,
+      "Siguiente",
+      callback,
+      currentPage < totalPages
+    );
+  } else {
+    return;
   }
-
-  // Botón 'Anterior'
-  createPaginationLink(currentPage - 1, "Anterior", callback, currentPage > 1);
-
-  // Enlaces de página
-  for (let i = startPage; i <= endPage; i++) {
-    createPaginationLink(i, i.toString(), callback, true, currentPage === i);
-  }
-
-  // Botón 'Siguiente'
-  createPaginationLink(
-    currentPage + 1,
-    "Siguiente",
-    callback,
-    currentPage < totalPages
-  );
 }
 
 /*
@@ -402,13 +402,15 @@ function createPaginationLink(
 ) {
   const paginationContainer = document.querySelector(".pagination");
   const li = document.createElement("li");
-  li.className = `page-item ${!isEnabled ? "disabled" : ""} ${isActive ? "active" : ""}`;
+  li.className = `page-item ${!isEnabled ? "disabled" : ""} ${
+    isActive ? "active" : ""
+  }`;
 
   const a = document.createElement("a");
   a.className = "page-link";
   a.textContent = text;
   a.href = "#";
-  
+
   if (isEnabled) {
     a.addEventListener("click", (e) => {
       e.preventDefault();
