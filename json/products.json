@@ -1,0 +1,1646 @@
+[
+  {
+    "id": 21,
+    "title": "Shoulder Bag",
+    "price": 48.99,
+    "description": "A perfect blend of style and utility, this vintage canvas shoulder bag is ideal for everyday use. Featuring multiple pockets and a comfortable strap.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1528575633266-e4a9b49e2994?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8U0hPVUxERVIlMjBCQUd8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 90
+    }
+  },
+  {
+    "id": 22,
+    "title": "Elegant Silver Necklace",
+    "price": 75.5,
+    "description": "Exquisitely crafted, this elegant silver necklace adds a touch of glamour to any outfit. Its intricate design is perfect for special occasions.",
+    "category": "jewelery",
+    "image": "https://images.unsplash.com/photo-1589128777073-263566ae5e4d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TmVja2xhY2V8ZW58MHx8MHx8fDA%3D",
+    "rating": {
+      "rate": 3.5,
+      "count": 150
+    }
+  },
+  {
+    "id": 23,
+    "title": "Camiseta de Algodón Orgánico",
+    "price": 25.99,
+    "description": "Camiseta cómoda y ecológica hecha de algodón 100% orgánico. Perfecta para el uso diario.",
+    "category": "men-t-shirt",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dCUyMHNoaXJ0fGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.0,
+      "count": 55
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 24,
+    "title": "Charming Beaded Necklace",
+    "price": 120.0,
+    "description": "This beautiful beaded necklace showcases a blend of vibrant colors and intricate patterns, making it a perfect statement piece for any occasion. The beads are carefully strung to create a harmonious design, embodying both elegance and artistic craftsmanship.",
+    "category": "jewelery",
+    "image": "https://images.unsplash.com/photo-1599459182681-c938b7f65af0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fE5lY2tsYWNlfGVufDB8fDB8fHww",
+    "rating": {
+      "rate": 4.9,
+      "count": 200
+    }
+  },
+  {
+    "id": 25,
+    "title": "Elegant Winter Coat",
+    "price": 120.99,
+    "description": "A warm and stylish winter coat, perfect for cold weather.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29hdHxlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 120
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 26,
+    "title": "Elegant Winter Coat Men",
+    "price": 120.99,
+    "description": "A warm and stylish winter coat, perfect for cold weather.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1619441523947-6ecdc0918d65?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNvYXQlMjBtZW58ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 120
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 27,
+    "title": "Classic Peacoat for Men",
+    "price": 135.5,
+    "description": "A timeless peacoat, ideal for a sophisticated look in cooler temperatures.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1467493330285-2fe6a9f97483?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fG1lbiUyMGNvYXRzfGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.6,
+      "count": 85
+    },
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 28,
+    "title": "Urban Puffer Jacket",
+    "price": 99.99,
+    "description": "Stylish and warm puffer jacket, perfect for urban winters.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1568745663067-9248ee880a3b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8VXJiYW4lMjBQdWZmZXIlMjBKYWNrZXR8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.3,
+      "count": 150
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 29,
+    "title": "Men's Wool Overcoat",
+    "price": 200.0,
+    "description": "Elegant wool overcoat, a classic choice for formal events.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1559582798-678dfc71ccd8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fG1lbiUyMGNvYXRzfGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.8,
+      "count": 60
+    },
+    "sizes": ["M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 30,
+    "title": "Lightweight Trench Coat",
+    "price": 110.2,
+    "description": "A sleek trench coat, perfect for transitional weather.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVuJTIwamFja2V0fGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.4,
+      "count": 95
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 31,
+    "title": "Rugged Outdoor Parka",
+    "price": 150.75,
+    "description": "A durable parka for outdoor adventures, even in harsh weather.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1516384903227-139a8cf0ec21?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fG1lbiUyMGNvYXRzfGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.7,
+      "count": 110
+    },
+    "sizes": ["M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 32,
+    "title": "Slim Fit Blazer Coat",
+    "price": 129.9,
+    "description": "A modern slim fit blazer coat for a sharp, contemporary look.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fG1lbiUyMGNvYXRzfGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.2,
+      "count": 78
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 33,
+    "title": "Heavy Duty Winter Coat",
+    "price": 180.3,
+    "description": "A heavy-duty coat designed to withstand extreme cold conditions.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1557771884-709f5996687d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fG1lbiUyMGphY2tldHxlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.9,
+      "count": 40
+    },
+    "sizes": ["L", "XL", "XXL"]
+  },
+  {
+    "id": 34,
+    "title": "Vintage Leather Jacket",
+    "price": 250.0,
+    "description": "A high-quality vintage leather jacket for a timeless style.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1629796987965-92f09e2d24af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fG1lbiUyMGphY2tldHxlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 105
+    },
+    "sizes": ["M", "L"]
+  },
+  {
+    "id": 35,
+    "title": "Casual Bomber Jacket",
+    "price": 89.99,
+    "description": "A casual yet stylish bomber jacket for everyday wear.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWVuJTIwamFja2V0fGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.1,
+      "count": 120
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 36,
+    "title": "Quilted Jacket for Men",
+    "price": 105.45,
+    "description": "A comfortable quilted jacket, great for a cool, casual look.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1610871276695-5e79e9cd497c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fG1lbiUyMGNvYXRzfGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.3,
+      "count": 70
+    },
+    "sizes": ["M", "L"]
+  },
+  {
+    "id": 37,
+    "title": "Eco-Friendly Raincoat",
+    "price": 120.0,
+    "description": "An eco-friendly raincoat, combining sustainability with style.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1654719796836-62b889d4598d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fG1lbiUyMHJhaW4lMjBjb2F0fGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.6,
+      "count": 90
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 38,
+    "title": "Techwear Style Coat",
+    "price": 145.99,
+    "description": "A futuristic techwear coat, for the modern and tech-savvy individual.",
+    "category": "coats",
+    "image": "https://images.unsplash.com/photo-1531265180709-e9b5fb594ca6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fFRlY2h3ZWFyJTIwU3R5bGUlMjBDb2F0fGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.0,
+      "count": 50
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 39,
+    "title": "Elegant Long Wool Coat for Women",
+    "price": 145.99,
+    "description": "A chic and warm long wool coat, perfect for stylish winter outings.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/photo-1634926692450-8c4ebd134c13?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fHdvbWVuJTIwY29hdHN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 40,
+    "title": "Trendy Puffer Jacket",
+    "price": 120.0,
+    "description": "A fashionable and cozy puffer jacket, ideal for cold urban winters.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/flagged/photo-1578398297852-4d2bfe74cefe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fFRyZW5keSUyMFB1ZmZlciUyMEphY2tldHxlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.4,
+      "count": 115
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 41,
+    "title": "Classic Trench Coat",
+    "price": 110.5,
+    "description": "Timeless trench coat for a sophisticated and versatile look.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/photo-1633821879282-0c4e91f96232?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2xhc3NpYyUyMFRyZW5jaCUyMENvYXR8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.6,
+      "count": 90
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 42,
+    "title": "Faux Fur Winter Coat",
+    "price": 199.99,
+    "description": "Luxurious faux fur coat, combining glamour with warmth.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/photo-1693438672953-409b661134fd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fFdpbnRlciUyMENvYXQlMjBqYWNrZXR8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.8,
+      "count": 75
+    },
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 43,
+    "title": "Lightweight Quilted Jacket",
+    "price": 89.9,
+    "description": "A sleek and lightweight quilted jacket, perfect for transitional weather.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/photo-1548624313-0396c75e4b1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8V2ludGVyJTIwQ29hdCUyMGphY2tldHxlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.3,
+      "count": 100
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 44,
+    "title": "Casual Denim Jacket",
+    "price": 75.0,
+    "description": "A casual and versatile denim jacket for an effortless everyday style.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/photo-1518904659698-a5ec9180760f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Q2FzdWFsJTIwRGVuaW0lMjBKYWNrZXR8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.1,
+      "count": 120
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 45,
+    "title": "Vintage Style Velvet Coat",
+    "price": 180.5,
+    "description": "A vintage-inspired velvet coat, perfect for elegant evenings.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/photo-1652796374179-224cba07d78e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODR8fFZpbnRhZ2UlMjBDb2F0fGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.5,
+      "count": 65
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 46,
+    "title": "Sporty Windbreaker",
+    "price": 65.0,
+    "description": "A sporty windbreaker, ideal for active days in variable weather.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/photo-1576993537667-c6d2386f90a2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDR8fFNwb3J0eSUyMFdpbmRicmVha2VyfGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.2,
+      "count": 85
+    },
+    "sizes": ["XS", "S", "M"]
+  },
+  {
+    "id": 47,
+    "title": "Eco-Friendly Raincoat",
+    "price": 99.99,
+    "description": "Sustainable and chic raincoat for eco-conscious fashion.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/photo-1601701705680-b81ff9c04ddc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHJhaW4lMjBjb2F0fGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.6,
+      "count": 110
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 48,
+    "title": "Bohemian Style Kimono Coat",
+    "price": 130.0,
+    "description": "A unique bohemian style kimono coat, perfect for a distinctive look.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/photo-1691620921355-0b3d2481e459?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fEtpbW9ubyUyMENvYXR8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.4,
+      "count": 90
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 49,
+    "title": "Modern Cape Coat",
+    "price": 145.75,
+    "description": "A modern take on the classic cape coat, for a stylish and unique appearance.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/photo-1609130862776-9c9067334e40?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fENhcGUlMjBDb2F0fGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.7,
+      "count": 70
+    },
+    "sizes": ["One Size"]
+  },
+  {
+    "id": 50,
+    "title": "Asymmetrical Zip Coat",
+    "price": 110.0,
+    "description": "A chic coat with an asymmetrical zip, blending elegance with edge.",
+    "category": "women-coats",
+    "image": "https://images.unsplash.com/photo-1546672657-61d12fae638c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fEFzeW1tZXRyaWNhbCUyMFppcCUyMENvYXR8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 80
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 51,
+    "title": "Classic Cotton Tee",
+    "price": 25.99,
+    "description": "A comfortable, classic cotton t-shirt, perfect for everyday wear.",
+    "category": "men-t-shirt",
+    "image": "https://images.unsplash.com/photo-1492447166138-50c3889fccb1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Q2xhc3NpYyUyMENvdHRvbiUyMFRlZSUyMG1lbnxlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 200
+    },
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 52,
+    "title": "Vintage Graphic Tee",
+    "price": 30.0,
+    "description": "A retro-style graphic t-shirt, great for a casual, cool look.",
+    "category": "men-t-shirt",
+    "image": "https://images.unsplash.com/photo-1503443207922-dff7d543fd0e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fENsYXNzaWMlMjBDb3R0b24lMjBUZWUlMjBtZW58ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.3,
+      "count": 150
+    },
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 53,
+    "title": "Athletic Fit Performance Tee",
+    "price": 35.0,
+    "description": "A high-performance t-shirt, designed for athletic and outdoor activities.",
+    "category": "men-t-shirt",
+    "image": "https://images.unsplash.com/photo-1588731234159-8b9963143fca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fENsYXNzaWMlMjBDb3R0b24lMjBUZWUlMjBtZW58ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.6,
+      "count": 180
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 54,
+    "title": "Eco-Friendly Bamboo Tee",
+    "price": 28.5,
+    "description": "An eco-friendly t-shirt made from sustainable bamboo fabric.",
+    "category": "men-t-shirt",
+    "image": "https://images.unsplash.com/photo-1489913590284-9269438bb411?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjgxfHxFY28lMjBGcmllbmRseSUyMEJhbWJvbyUyMFRlZSUyMG1lbnxlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.8,
+      "count": 90
+    },
+    "sizes": ["M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 55,
+    "title": "Minimalist Pocket Tee",
+    "price": 22.99,
+    "description": "A sleek and minimalist t-shirt with a practical pocket detail.",
+    "category": "men-t-shirt",
+    "image": "https://images.unsplash.com/photo-1496346236646-50e985b31ea4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fE1pbmltYWxpc3QlMjBQb2NrZXQlMjBUZWUlMjBtZW58ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.2,
+      "count": 120
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 56,
+    "title": "Henley Style Tee",
+    "price": 32.0,
+    "description": "A stylish Henley t-shirt, combining comfort with a touch of elegance.",
+    "category": "men-t-shirt",
+    "image": "https://images.unsplash.com/photo-1534525445734-77ee55452950?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAwfHxIZW5sZXklMjBTdHlsZSUyMFRlZSUyMG1lbnxlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.4,
+      "count": 130
+    },
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 57,
+    "title": "Bold Statement Tee",
+    "price": 27.5,
+    "description": "Make a statement with this bold and expressive graphic t-shirt.",
+    "category": "men-t-shirt",
+    "image": "https://images.unsplash.com/photo-1552642986-ccb41e7059e7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA1fHxFY28lMjBGcmllbmRseSUyMEJhbWJvbyUyMFRlZSUyMG1lbnxlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 140
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 58,
+    "title": "Striped Casual Tee",
+    "price": 24.0,
+    "description": "A casual striped t-shirt, perfect for a laid-back, stylish look.",
+    "category": "men-t-shirt",
+    "image": "https://images.unsplash.com/photo-1536766820879-059fec98ec0a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjJ8fFN0cmlwZWQlMjBDYXN1YWwlMjBUZWUlMjAlMjBtZW58ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.3,
+      "count": 160
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 59,
+    "title": "Urban Streetwear Tee",
+    "price": 29.99,
+    "description": "An urban streetwear t-shirt, perfect for a trendy and contemporary look.",
+    "category": "men-t-shirt",
+    "image": "https://images.unsplash.com/photo-1533898301026-0a2546b285e7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VXJiYW4lMjBTdHJlZXR3ZWFyJTIwJTIwbWVufGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.4,
+      "count": 130
+    },
+    "sizes": ["M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 60,
+    "title": "Classic Pullover Hoodie",
+    "price": 49.99,
+    "description": "A classic pullover hoodie, combining comfort and simplicity for everyday wear.",
+    "category": "men-hoddies",
+    "image": "https://images.unsplash.com/photo-1512168245706-6596624d2774?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG9kZGllc3xlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 210
+    },
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 61,
+    "title": "Urban Zip-Up Hoodie",
+    "price": 55.0,
+    "description": "A stylish zip-up hoodie perfect for urban outings and casual wear.",
+    "category": "men-hoddies",
+    "image": "https://images.unsplash.com/photo-1629708376206-598107e0a6e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvZGRpZXN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.4,
+      "count": 180
+    },
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 62,
+    "title": "Athletic Fit Hoodie",
+    "price": 60.0,
+    "description": "An athletic fit hoodie designed for both workouts and leisure.",
+    "category": "men-hoddies",
+    "image": "https://images.unsplash.com/photo-1596209067786-60376749fea4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9kZGllc3xlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.6,
+      "count": 190
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 63,
+    "title": "Eco-Friendly Fleece Hoodie",
+    "price": 65.99,
+    "description": "An eco-friendly hoodie made from sustainable fleece, warm and cozy.",
+    "category": "men-hoddies",
+    "image": "https://images.unsplash.com/photo-1590103514500-5abdbbd4bf79?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG9kZGllc3xlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.7,
+      "count": 160
+    },
+    "sizes": ["M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 64,
+    "title": "Urban Zip-Up Hoodie",
+    "price": 55.0,
+    "description": "A stylish zip-up hoodie perfect for urban outings and casual wear.",
+    "category": "men-hoddies",
+    "image": "https://images.unsplash.com/photo-1509942774463-acf339cf87d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG9kZGllc3xlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.4,
+      "count": 180
+    },
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 65,
+    "title": "Athletic Fit Hoodie",
+    "price": 60.0,
+    "description": "An athletic fit hoodie designed for both workouts and leisure.",
+    "category": "men-hoddies",
+    "image": "https://images.unsplash.com/photo-1512977141980-8cc662e38a0c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGhvZGRpZXN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.6,
+      "count": 190
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 66,
+    "title": "Eco-Friendly Fleece Hoodie",
+    "price": 65.99,
+    "description": "An eco-friendly hoodie made from sustainable fleece, warm and cozy.",
+    "category": "men-hoddies",
+    "image": "https://images.unsplash.com/photo-1506135385820-d15107bf8e1f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGhvZGRpZXN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.7,
+      "count": 160
+    },
+    "sizes": ["M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 67,
+    "title": "Minimalist Design Hoodie",
+    "price": 50.0,
+    "description": "A sleek, minimalist hoodie with a focus on fit and comfort.",
+    "category": "men-hoddies",
+    "image": "https://images.unsplash.com/photo-1618333365874-bffba778b90a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGhvZGRpZXN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.3,
+      "count": 150
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 68,
+    "title": "Graphic Print Hoodie",
+    "price": 58.0,
+    "description": "A bold graphic print hoodie, making a statement in casual fashion.",
+    "category": "men-hoddies",
+    "image": "https://images.unsplash.com/photo-1635796244808-d93b6e26de62?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGhvZGRpZXN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 170
+    },
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 69,
+    "title": "Vintage Inspired Hoodie",
+    "price": 54.99,
+    "description": "A vintage-inspired hoodie for a comfortable, retro look.",
+    "category": "men-hoddies",
+    "image": "https://images.unsplash.com/photo-1618333826210-34c62badc237?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGhvZGRpZXN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.4,
+      "count": 200
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+
+  {
+    "id": 70,
+    "title": "Classic Leather Wallet",
+    "price": 35.99,
+    "description": "A sleek and durable leather wallet, perfect for organizing essentials.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1629958317491-bd40c9fa757e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGVhdGhlciUyMFdhbGxldHxlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.6,
+      "count": 190
+    }
+  },
+  {
+    "id": 71,
+    "title": "Elegant Stainless Steel Watch",
+    "price": 120.0,
+    "description": "A timeless stainless steel watch, combining class with functionality.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1700650109006-1741e917a6bf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U3RhaW5sZXNzJTIwU3RlZWwlMjBXYXRjaHxlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.7,
+      "count": 210
+    }
+  },
+  {
+    "id": 72,
+    "title": "Stylish Aviator Sunglasses",
+    "price": 50.0,
+    "description": "High-quality aviator sunglasses, perfect for a classic, stylish look.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1567101293231-51d2bd439398?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QXZpYXRvciUyMFN1bmdsYXNzZXN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 175
+    }
+  },
+  {
+    "id": 73,
+    "title": "Sophisticated Silk Tie",
+    "price": 30.0,
+    "description": "A sophisticated silk tie, ideal for formal attire and business meetings.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1506072590044-75de1b7b7806?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fFNpbGslMjBUaWV8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.6,
+      "count": 160
+    }
+  },
+  {
+    "id": 74,
+    "title": "Premium Leather Belt",
+    "price": 45.0,
+    "description": "A premium leather belt, a must-have accessory for a polished look.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TGVhdGhlciUyMEJlbHR8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.7,
+      "count": 180
+    }
+  },
+  {
+    "id": 75,
+    "title": "Chic Cropped Hoodie",
+    "price": 40.0,
+    "description": "A trendy cropped hoodie for a fashionable, modern look.",
+    "category": "women-hoodies",
+    "image": "https://images.unsplash.com/photo-1509946458702-4378df1e2560?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGhvZGRpZXN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.6,
+      "count": 120
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 76,
+    "title": "Oversized Casual Hoodie",
+    "price": 55.0,
+    "description": "A comfortable oversized hoodie, perfect for a relaxed and cozy style.",
+    "category": "women-hoodies",
+    "image": "https://images.unsplash.com/photo-1526476148966-98bd039463ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhvZGRpZXN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.7,
+      "count": 150
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 77,
+    "title": "Athleisure Zip Hoodie",
+    "price": 50.0,
+    "description": "A stylish athleisure hoodie with zip, blending comfort and sporty chic.",
+    "category": "women-hoodies",
+    "image": "https://images.unsplash.com/photo-1573742262732-64fc0121d6fc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGhvZGRpZXN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 130
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 78,
+    "title": "Eco-Friendly Fleece Hoodie",
+    "price": 60.0,
+    "description": "An eco-friendly and warm fleece hoodie, perfect for sustainable fashion.",
+    "category": "women-hoodies",
+    "image": "https://images.unsplash.com/photo-1616430286685-d11d259848b9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEVjbyUyMEZyaWVuZGx5JTIwRmxlZWNlJTIwSG9vZGllfGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.8,
+      "count": 140
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 79,
+    "title": "Bold Graphic Hoodie",
+    "price": 45.0,
+    "description": "Make a statement with this bold graphic hoodie, for a standout look.",
+    "category": "women-hoodies",
+    "image": "https://images.unsplash.com/photo-1621027212913-da785ebe2bcb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fGhvZGRpZXN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.4,
+      "count": 160
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 80,
+    "title": "Vintage Inspired Hoodie",
+    "price": 48.0,
+    "description": "A retro-style hoodie for a comfortable, vintage touch to your wardrobe.",
+    "category": "women-hoodies",
+    "image": "https://images.unsplash.com/photo-1565693413579-8ff3fdc1b03b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3VkYWRlcmFzfGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.6,
+      "count": 170
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 81,
+    "title": "Minimalist Pullover Hoodie",
+    "price": 52.0,
+    "description": "A minimalist pullover hoodie, ideal for a sleek, understated look.",
+    "category": "women-hoodies",
+    "image": "https://images.unsplash.com/photo-1553728437-e15abbe95e6b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c3VkYWRlcmFzfGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.3,
+      "count": 120
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 82,
+    "title": "Floral Print Hoodie",
+    "price": 49.99,
+    "description": "A feminine floral print hoodie, perfect for a touch of spring in your outfit.",
+    "category": "women-hoodies",
+    "image": "https://images.unsplash.com/photo-1515614557830-ae0df9016e19?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3VkYWRlcmFzJTIwZmxvcmVzfGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.5,
+      "count": 110
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 83,
+    "title": "Slim Fit Cotton Dress Shirt",
+    "price": 55.0,
+    "description": "A slim fit cotton dress shirt, perfect for both formal and casual occasions.",
+    "category": "men-shirt",
+    "image": "https://images.unsplash.com/photo-1546434946-3e8a5564945d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fFNoaXJ0JTIwbWFufGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.5,
+      "count": 140
+    },
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 84,
+    "title": "Casual Denim Shirt",
+    "price": 40.0,
+    "description": "A versatile casual denim shirt, ideal for a relaxed yet stylish look.",
+    "category": "men-shirt",
+    "image": "https://images.unsplash.com/photo-1599475735868-a8924c458792?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fFNoaXJ0JTIwbWFufGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.6,
+      "count": 130
+    },
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 85,
+    "title": "Classic Plaid Flannel Shirt",
+    "price": 35.0,
+    "description": "A classic plaid flannel shirt, perfect for a cozy and casual style.",
+    "category": "men-shirt",
+    "image": "https://images.unsplash.com/photo-1605773736628-5a530e7ea04c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8U2hpcnQlMjBtYW58ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.4,
+      "count": 120
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 86,
+    "title": "Linen Button-Down Shirt",
+    "price": 50.0,
+    "description": "A lightweight linen shirt with a button-down design, ideal for summer days.",
+    "category": "men-shirt",
+    "image": "https://images.unsplash.com/photo-1509305717900-84f40e786d82?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFNoaXJ0JTIwbWFufGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.7,
+      "count": 110
+    },
+    "sizes": ["M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 87,
+    "title": "Formal Oxford Shirt",
+    "price": 60.0,
+    "description": "A sophisticated Oxford shirt, a staple piece for formal attire.",
+    "category": "men-shirt",
+    "image": "https://images.unsplash.com/photo-1529688530647-93a6e1916f5f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fFNoaXJ0JTIwbWFufGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 88,
+    "title": "Short-Sleeve Hawaiian Shirt",
+    "price": 30.0,
+    "description": "A fun and colorful Hawaiian shirt, great for vacation and beach days.",
+    "category": "men-shirt",
+    "image": "https://images.unsplash.com/photo-1533690722797-a8b7aa2a2e8e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fFNoaXJ0JTIwbWFufGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.3,
+      "count": 100
+    },
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 89,
+    "title": "Modern Striped Shirt",
+    "price": 45.0,
+    "description": "A modern striped shirt, blending classic style with contemporary design.",
+    "category": "men-shirt",
+    "image": "https://images.unsplash.com/photo-1541881856704-3c4b2896c0f8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fFNoaXJ0JTIwbWFufGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.6,
+      "count": 160
+    },
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 90,
+    "title": "Silk Party Shirt",
+    "price": 70.0,
+    "description": "An elegant silk shirt, perfect for parties and special occasions.",
+    "category": "men-shirt",
+    "image": "https://images.unsplash.com/photo-1504593811423-6dd665756598?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fFBhcnR5JTIwU2hpcnR8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.7,
+      "count": 90
+    },
+    "sizes": ["M", "L", "XL"]
+  },
+  {
+    "id": 91,
+    "title": "Athletic Fit Polo Shirt",
+    "price": 38.0,
+    "description": "A stylish athletic fit polo shirt, ideal for both sporty and casual looks.",
+    "category": "men-shirt",
+    "image": "https://images.unsplash.com/photo-1625910513413-c23b8bb81cba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UG9sbyUyMFNoaXJ0fGVufDB8fDB8fHwy",
+    "rating": {
+      "rate": 4.5,
+      "count": 140
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 92,
+    "title": "Classic Chinos",
+    "price": 49.99,
+    "description": "A pair of classic chinos, perfect for both casual and formal settings.",
+    "category": "pants",
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGFudGFsb25lc3xlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 160
+    },
+    "sizes": ["30", "32", "34", "36", "38"]
+  },
+  {
+    "id": 93,
+    "title": "Slim Fit Jeans",
+    "price": 55.0,
+    "description": "Stylish slim fit jeans, a must-have in every modern wardrobe.",
+    "category": "pants",
+    "image": "https://images.unsplash.com/photo-1624378441864-6eda7eac51cb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHBhbnRhbG9uZXN8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.6,
+      "count": 180
+    },
+    "sizes": ["30", "32", "34", "36"]
+  },
+  {
+    "id": 94,
+    "title": "Formal Dress Trousers",
+    "price": 65.0,
+    "description": "Elegant dress trousers, ideal for business and formal occasions.",
+    "category": "pants",
+    "image": "https://images.unsplash.com/photo-1667686952557-292df7f2e0df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHBhbnRhbG9uJTIwdHJhamV8ZW58MHx8MHx8fDI%3D",
+    "rating": {
+      "rate": 4.7,
+      "count": 150
+    },
+    "sizes": ["30", "32", "34", "36", "38"]
+  },
+  {
+    "id": 95,
+    "title": "Casual Cargo Pants",
+    "price": 50.0,
+    "description": "A pair of casual cargo pants, perfect for a rugged and functional style.",
+    "category": "pants",
+    "image": "https://images.unsplash.com/photo-1584302052177-2e90841dad6a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2FyZ28lMjBQYW50c3xlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.4,
+      "count": 140
+    },
+    "sizes": ["32", "34", "36", "38"]
+  },
+  {
+    "id": 96,
+    "title": "Athletic Sweatpants",
+    "price": 40.0,
+    "description": "Comfortable athletic sweatpants, ideal for workouts or lounging.",
+    "category": "pants",
+    "image": "https://images.unsplash.com/photo-1554139844-af2fc8ad3a3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fEF0aGxldGljJTIwU3dlYXRwYW50c3xlbnwwfHwwfHx8Mg%3D%3D",
+    "rating": {
+      "rate": 4.5,
+      "count": 130
+    },
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 97,
+    "title": "Linen Summer Pants",
+    "price": 45.0,
+    "description": "Lightweight linen pants, perfect for staying cool in the summer heat.",
+    "category": "pants",
+    "image": "https://media.istockphoto.com/id/1388526629/es/foto/joven-sin-afeitar-en-traje-con-equipaje-sentado-en-una-silla-de-madera.jpg?s=612x612&w=0&k=20&c=XKcxsDwpqwFxDTFkrpTjc19eyiFsP5W-c4aReRdg1jw=",
+    "rating": {
+      "rate": 4.6,
+      "count": 120
+    },
+    "sizes": ["30", "32", "34", "36"]
+  },
+  {
+    "id": 98,
+    "title": "Trendy Joggers",
+    "price": 42.0,
+    "description": "Fashionable joggers, blending comfort with street style.",
+    "category": "pants",
+    "image": "https://media.istockphoto.com/id/1316675951/es/foto/hombre-en-un-ch%C3%A1ndal-gris-sobre-un-fondo-blanco.jpg?s=612x612&w=0&k=20&c=wZ61FDFJ7G_8tSggRRTJhysKPZO0L0ZWiZshAFl90ts=",
+    "rating": {
+      "rate": 4.3,
+      "count": 150
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 99,
+    "title": "Wool Blend Trousers",
+    "price": 70.0,
+    "description": "A pair of wool blend trousers, combining warmth and elegance.",
+    "category": "pants",
+    "image": "https://media.istockphoto.com/id/489007124/es/foto/pantalones.jpg?s=612x612&w=0&k=20&c=g2PXw9_GEos1yTZC4T8YasPR3R1uq60-kEm2-mSSn8U=",
+    "rating": {
+      "rate": 4.7,
+      "count": 110
+    },
+    "sizes": ["32", "34", "36", "38"]
+  },
+  {
+    "id": 100,
+    "title": "Rugged Outdoor Pants",
+    "price": 60.0,
+    "description": "Durable outdoor pants designed for adventure and outdoor activities.",
+    "category": "pants",
+    "image": "https://media.istockphoto.com/id/1360311770/es/foto/pantalones-de-trekking.jpg?s=612x612&w=0&k=20&c=uLeR-R22gf8uW9wILF3Z74F7wT9OFVPuczwxVr4uevA=",
+    "rating": {
+      "rate": 4.5,
+      "count": 100
+    },
+    "sizes": ["30", "32", "34", "36", "38"]
+  },
+  {
+    "id": 101,
+    "title": "Classic V-Neck Tee",
+    "price": 25.0,
+    "description": "A timeless V-neck tee, perfect for casual and versatile styling.",
+    "category": "women-t-shirt",
+    "image": "https://media.istockphoto.com/id/905988760/es/foto/mujer-bella.jpg?s=612x612&w=0&k=20&c=u4UEqk1opzN8ntn16WfGEKkkBgzPrsgTM4s8RgoneyM=",
+    "rating": {
+      "rate": 4.5,
+      "count": 200
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 102,
+    "title": "Floral Print T-Shirt",
+    "price": 30.0,
+    "description": "A beautiful floral print t-shirt, adding a touch of spring to your wardrobe.",
+    "category": "women-t-shirt",
+    "image": "https://i.etsystatic.com/12489493/r/il/9d1f94/3742144970/il_570xN.3742144970_3ato.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 150
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 103,
+    "title": "Boho Style Tee",
+    "price": 28.0,
+    "description": "A bohemian style tee, perfect for a relaxed and chic look.",
+    "category": "women-t-shirt",
+    "image": "https://m.media-amazon.com/images/I/81VYhfhGp0L._AC_UY1000_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 180
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 104,
+    "title": "Graphic Crop Top",
+    "price": 27.5,
+    "description": "A trendy graphic crop top, great for a bold and youthful style.",
+    "category": "women-t-shirt",
+    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/f9dea00a7d364982a0d3ae3c00da2fbc_9366/Camiseta_Blocked_Graphic_Crop_Blanco_HF2129_21_model.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 160
+    },
+    "sizes": ["XS", "S", "M"]
+  },
+  {
+    "id": 105,
+    "title": "Oversized Boyfriend Tee",
+    "price": 29.0,
+    "description": "A comfy oversized boyfriend tee, ideal for a laid-back, effortless look.",
+    "category": "women-t-shirt",
+    "image": "https://cdn.yoursclothing.com/Images/ProductImages/d5018594-b795-4f_330227_L1.jpg",
+    "rating": {
+      "rate": 4.3,
+      "count": 140
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 106,
+    "title": "Sporty Striped T-Shirt",
+    "price": 32.0,
+    "description": "A sporty striped t-shirt, combining fashion with athletic style.",
+    "category": "women-t-shirt",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTElhSzjMgtUlunwbwXoMHtnZCS4So9GkchN2lfkzCRxkMQoj5qB5xb6TWJ7ulJGuA4ITk_OO8emITXzOPbKIal59sok7SJFI7KnY2h3mqTJgCJipjgdmKK&usqp=CAc",
+    "rating": {
+      "rate": 4.5,
+      "count": 170
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 107,
+    "title": "Sleek Turtleneck Tee",
+    "price": 33.0,
+    "description": "A sleek turtleneck tee, perfect for layering or as a chic standalone piece.",
+    "category": "women-t-shirt",
+    "image": "https://m.media-amazon.com/images/I/71o6cQtIrdL._AC_UL320_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 130
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 108,
+    "title": "Lace Detail Tee",
+    "price": 35.0,
+    "description": "An elegant tee with delicate lace details, adding a feminine touch.",
+    "category": "women-t-shirt",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTQ0RICAnoS7U8XEc5tzVZv2C03-Gj0wJ0rq9ZtTzubwF-mgcEfJ71T3IkJuvmgYdeQfVQsg-HAHf89AeeerPVyYEUSaek_wq9xhT2IW1mysDUXXSWc9pckyA&usqp=CAc",
+    "rating": {
+      "rate": 4.8,
+      "count": 120
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 109,
+    "title": "Casual Scoop Neck Tee",
+    "price": 24.0,
+    "description": "A casual scoop neck tee, essential for everyday wear.",
+    "category": "women-t-shirt",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxRAlWavNN6jHMNHeBCTK_D5mZk9rvMlMm6YyUFzaplSqF8FBbaNlzi6r2Dbyxb0lMm-sLK1h44GVmrkZqT2WjEUcqWdA2EDcGswlCt6fOIbq78zFEMFFh&usqp=CAc",
+    "rating": {
+      "rate": 4.4,
+      "count": 150
+    },
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 110,
+    "title": "Vintage Band Tee",
+    "price": 40.0,
+    "description": "A vintage band tee, perfect for music lovers and retro style enthusiasts.",
+    "category": "women-t-shirt",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTGGDU0eRgKJD7rwE6xR1DHdy9kNBO3uI1PR6DatjNgZcScjyf99gZJ6bBSsqbMSQtIZjd7deW4kU-EtR9pS8ZhCR-3qSfKpS99S8zo_grY1Y5bUIYFCOcA9LY2cm55kNZ2P8on1GBUhI8&usqp=CAc",
+    "rating": {
+      "rate": 4.5,
+      "count": 160
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 111,
+    "title": "Minimalist Pocket Tee",
+    "price": 26.0,
+    "description": "A minimalist pocket tee, combining simplicity and practicality.",
+    "category": "women-t-shirt",
+    "image": "data:image/webp;base64,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",
+    "rating": {
+      "rate": 4.3,
+      "count": 180
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 112,
+    "title": "Artistic Print Tee",
+    "price": 38.0,
+    "description": "A unique artistic print tee, for those who love a creative touch.",
+    "category": "women-t-shirt",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_hOqEdfdfiQGkInCOq06ktO1yQLt4HuuSA80D8V-njImzPvUnFL9MxP_ZcDBuRlo7n5aOhKGf8W-OSkkgLxUH5JIk0A2Z69Ock9JlzS4RBiD3kRcPgnBTug&usqp=CAc",
+    "rating": {
+      "rate": 4.7,
+      "count": 140
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 113,
+    "title": "Retro Ringer Tee",
+    "price": 28.0,
+    "description": "A retro ringer tee, bringing back the classic '70s style.",
+    "category": "women-t-shirt",
+    "image": "https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202307/11/00182369809262____5__1200x1200.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 160
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 114,
+    "title": "Cut-Out Shoulder Tee",
+    "price": 31.0,
+    "description": "A fashionable cut-out shoulder tee, adding an edgy twist to a classic.",
+    "category": "women-t-shirt",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSYfgK_e0Fk8PgIVSzKaIkk7gJlW1pcSi1-GeIpkU_8B3gb3rf6wrMb9Q0XZppqDfO1-5ae7JLp1-jL_2dv7NaGfKqRZ7JKYQBz9B5pA5zzS5GUYJLSrQIBIg&usqp=CAc",
+    "rating": {
+      "rate": 4.4,
+      "count": 130
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 115,
+    "title": "Long Sleeve Basic Tee",
+    "price": 27.0,
+    "description": "A long sleeve basic tee, a versatile piece for all seasons.",
+    "category": "women-t-shirt",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS_s3C1UA4Qd328kuKnAbtQnlwhNm3Er1EiCY1g_NRwT0WhOLPhvqkr3n7D4bRbQ8mFGeH-KLPLYGlvdcJXc01z5dzyneKEpyRGe9x7pcB8-ukSYAr3AQtK_IaP9nkkydtu4cdyWELR23k&usqp=CAc",
+    "rating": {
+      "rate": 4.5,
+      "count": 120
+    },
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 116,
+    "title": "Elegant Silk Blouse",
+    "price": 45.0,
+    "description": "A luxurious silk blouse, perfect for a sophisticated and polished look.",
+    "category": "blouses",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5JLfS8ldrcVQHZhi1PbKmd4hwhpv74pyyxQ1UjLSBdnzv7lfRgNGQeR2B3WRhqmcbmfsXjBePgUT_DKtYIq3FwVHHvhObfhCvaILzl-JEWCsLaZ-MxTdM2w&usqp=CAc",
+    "rating": {
+      "rate": 4.7,
+      "count": 150
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 117,
+    "title": "Ruffled Chiffon Blouse",
+    "price": 38.0,
+    "description": "A delicate ruffled chiffon blouse, adding a feminine and airy touch.",
+    "category": "blouses",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDHrFUgeumBJlOT4u2bADxtVXTECGBzhgH6_D3smeuom6VNGttQF0gSsK_Ic956TjUu3oALY9pkfWAtAq0Icy9bxE_0EdaU5vo07B8MUx0l0LcM8YdovcJug&usqp=CAc",
+    "rating": {
+      "rate": 4.6,
+      "count": 140
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 118,
+    "title": "Boho Lace Blouse",
+    "price": 40.0,
+    "description": "A bohemian-inspired lace blouse, perfect for a casual yet chic look.",
+    "category": "blouses",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT25ev2MzP9EkX7MtAFHDb3N78EsksWb8aMoknfudEDr7WtPyIWo0OcK2MBRH_mL9EpGQhScHyB12HerijWRobmIAl6stW-kY0sSLcS7qTyIl2OAIi-TW54vn0pdh9u8Iq56F7KxxkrCf8&usqp=CAc",
+    "rating": {
+      "rate": 4.5,
+      "count": 130
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 119,
+    "title": "Striped Office Blouse",
+    "price": 35.0,
+    "description": "A professional striped blouse, ideal for office wear and formal occasions.",
+    "category": "blouses",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRKbaIvIa_kjisiMByRHoCrKv3njg1r0Mj3QEdH4MDWCLTlfcfahBMCRWfCotequYHKlCvWXTh1fjWma69bfLcnTz9LZZh5FBk2ThovDd0_H52f0bqYpn_g&usqp=CAc",
+    "rating": {
+      "rate": 4.4,
+      "count": 120
+    },
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 120,
+    "title": "Wrap Front Blouse",
+    "price": 42.0,
+    "description": "A stylish wrap front blouse, offering both comfort and elegance.",
+    "category": "blouses",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1d_EKOTfsf7TIHuv9Tg-ySks8Dcwri93kKtWh_bhA15uvlIkoseCulPc4q3SkYDrbVHqKvP_ICnZQRKjZnpFwa_r4HQRB1zIGyZZ1S9hxA34WiO-TMGBL&usqp=CAc",
+    "rating": {
+      "rate": 4.7,
+      "count": 160
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 121,
+    "title": "Floral Print Peplum Blouse",
+    "price": 37.0,
+    "description": "A charming floral print peplum blouse, adding a playful twist to your outfit.",
+    "category": "blouses",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAl8uueN_QAxK4WyJsa_RVIj8i88gDRYYDL7fXq0UYT89yBy6TCXEff8-NEsZdBmlkPEpEQgEe6shMHJDuy1M0d94mXGtGY7lZkjKy1Uk&usqp=CAc",
+    "rating": {
+      "rate": 4.6,
+      "count": 150
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 122,
+    "title": "Classic Button-Up Blouse",
+    "price": 33.0,
+    "description": "A classic button-up blouse, versatile for both casual and formal settings.",
+    "category": "blouses",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSI93irhIwrGD_agRxM5Ua43_6THHiL1oo_evC_ZpY3lwJJgIYaAZm8SpvP0k7TGkvSKbmyR3wbWJpUdMaCGcDrrdDy18RWnGxEt1KWCvc6arE4II34QW9iNw&usqp=CAc",
+    "rating": {
+      "rate": 4.5,
+      "count": 140
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 123,
+    "title": "Tie-Neck Blouse",
+    "price": 39.0,
+    "description": "An elegant tie-neck blouse, ideal for a sophisticated and timeless style.",
+    "category": "blouses",
+    "image": "data:image/jpeg;base64,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",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 124,
+    "title": "High-Waisted Skinny Jeans",
+    "price": 49.0,
+    "description": "A pair of versatile high-waisted skinny jeans, perfect for any occasion.",
+    "category": "women-pants",
+    "image": "data:image/jpeg;base64,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",
+    "rating": {
+      "rate": 4.6,
+      "count": 180
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 125,
+    "title": "Casual Palazzo Pants",
+    "price": 40.0,
+    "description": "Elegant and comfortable palazzo pants, ideal for a chic, flowy look.",
+    "category": "women-pants",
+    "image": "https://i.etsystatic.com/13008011/c/2001/1592/0/1166/il/62f193/4675436279/il_340x270.4675436279_r6zc.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 126,
+    "title": "Classic Straight Leg Trousers",
+    "price": 55.0,
+    "description": "A pair of classic straight leg trousers, a must-have for professional attire.",
+    "category": "women-pants",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSx2VUrEGrDgOj0TL7S8qG7dtqSMLXWePQwIdzQI-Kx3n2vfpOMWbi7L-QodoVtCvyeYcOMlbNu52ULrw-RdArUTOVd8AL50r1Q3o97YQn0RK-PRnIoT9kXKg&usqp=CAc",
+    "rating": {
+      "rate": 4.7,
+      "count": 160
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 127,
+    "title": "Cropped Culottes",
+    "price": 42.0,
+    "description": "Fashion-forward cropped culottes, perfect for a modern and stylish look.",
+    "category": "women-pants",
+    "image": "https://i.etsystatic.com/11407045/c/2000/2000/0/930/il/aeccb3/5140085833/il_300x300.5140085833_9b3t.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 140
+    },
+    "sizes": ["S", "M", "L"]
+  },
+  {
+    "id": 128,
+    "title": "Chic Leather Leggings",
+    "price": 60.0,
+    "description": "A pair of chic leather leggings, adding an edgy touch to any outfit.",
+    "category": "women-pants",
+    "image": "https://i.etsystatic.com/19276133/c/2173/1727/353/1124/il/a19dd7/2190016342/il_340x270.2190016342_j16g.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 130
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 129,
+    "title": "Comfortable Joggers",
+    "price": 35.0,
+    "description": "A pair of comfortable joggers, ideal for both active and relaxed days.",
+    "category": "women-pants",
+    "image": "https://i.etsystatic.com/44672027/r/il/1b89c8/5189404040/il_340x270.5189404040_cguz.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 120
+    },
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": 130,
+    "title": "Wide Leg Linen Pants",
+    "price": 45.0,
+    "description": "Breezy wide leg linen pants, perfect for staying cool in warmer weather.",
+    "category": "women-pants",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRXmd3EUVfLfrj2QrU5xMUsneZa00EW7EcPGWdS04D5eFiLNLfPKfU4OcYbZkuplHHDBjDiwv0ly0jznsD065okEzLponQTBoWmqIzShE8CMQU1W1ZOdIJQ2qsKniv8cSudklWDvL8&usqp=CAc",
+    "rating": {
+      "rate": 4.7,
+      "count": 150
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 131,
+    "title": "Printed Capri Pants",
+    "price": 38.0,
+    "description": "Stylish printed capri pants, great for a fun and vibrant look.",
+    "category": "women-pants",
+    "image": "https://i.etsystatic.com/10255504/r/il/3f83ea/4970353386/il_300x300.4970353386_5drk.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 110
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 132,
+    "title": "High Rise Flared Jeans",
+    "price": 50.0,
+    "description": "Trendy high rise flared jeans, a nod to the classic '70s style.",
+    "category": "women-pants",
+    "image": "https://i.etsystatic.com/24619028/c/1288/1288/158/0/il/8c4525/4808056391/il_300x300.4808056391_cnhy.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 140
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 133,
+    "title": "Athletic Yoga Pants",
+    "price": 35.0,
+    "description": "Flexible and supportive yoga pants, perfect for fitness and relaxation.",
+    "category": "women-pants",
+    "image": "https://i.etsystatic.com/24749672/c/1500/1500/263/0/il/c7ac27/3771645847/il_300x300.3771645847_9r7d.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 160
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 134,
+    "title": "Formal Pinstripe Pants",
+    "price": 56.0,
+    "description": "Elegant pinstripe pants, ideal for business meetings and formal events.",
+    "category": "women-pants",
+    "image": "https://i.etsystatic.com/5738643/c/2000/2000/0/1000/il/cc9e71/5356011154/il_300x300.5356011154_8g9x.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 120
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 135,
+    "title": "Velvet Lounge Pants",
+    "price": 42.0,
+    "description": "Luxurious velvet lounge pants, combining comfort with a touch of glam.",
+    "category": "women-pants",
+    "image": "https://i.etsystatic.com/16555338/c/2395/2395/317/527/il/48ffea/3426448744/il_600x600.3426448744_79ec.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 130
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 136,
+    "title": "Classic Pullover Hoodie",
+    "price": 48.0,
+    "description": "A cozy classic pullover hoodie, perfect for a casual and comfortable look.",
+    "category": "women-hoodies",
+    "image": "https://www.bfgcdn.com/600_600_90/105-2044-0611/sherpa-womens-yuden-pullover-sweater-jerseis-de-lana-merina.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 150
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 137,
+    "title": "Zip-Up Athletic Hoodie",
+    "price": 52.0,
+    "description": "A versatile zip-up hoodie, ideal for both athletic activities and casual wear.",
+    "category": "women-hoodies",
+    "image": "https://i.etsystatic.com/11014290/c/800/800/0/33/il/3b1a5c/2584811682/il_600x600.2584811682_71l4.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 140
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 138,
+    "title": "Cropped Fashion Hoodie",
+    "price": 45.0,
+    "description": "A trendy cropped hoodie, perfect for a stylish yet relaxed outfit.",
+    "category": "women-hoodies",
+    "image": "https://i.etsystatic.com/19437653/c/1721/1721/144/34/il/440c2d/5609093449/il_300x300.5609093449_nuiy.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 130
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 139,
+    "title": "Oversized Graphic Hoodie",
+    "price": 49.99,
+    "description": "An oversized graphic hoodie, great for a bold and edgy look.",
+    "category": "women-hoodies",
+    "image": "https://i.etsystatic.com/41485926/c/1986/1986/448/25/il/e7177e/5549374262/il_300x300.5549374262_e68q.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 120
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 140,
+    "title": "Eco-Friendly Fleece Hoodie",
+    "price": 55.0,
+    "description": "A sustainable and warm fleece hoodie, combining comfort with eco-conscious fashion.",
+    "category": "women-hoodies",
+    "image": "https://i.etsystatic.com/29515757/c/2000/2000/0/0/il/c131be/3604888024/il_300x300.3604888024_7vrq.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 110
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 141,
+    "title": "Velvet Lounge Hoodie",
+    "price": 60.0,
+    "description": "A luxurious velvet lounge hoodie, perfect for relaxed, chic comfort.",
+    "category": "women-hoodies",
+    "image": "https://i.etsystatic.com/12353566/c/906/906/0/0/il/d17f07/3027177779/il_300x300.3027177779_84h5.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 100
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 142,
+    "title": "Sporty Stripe Hoodie",
+    "price": 50.0,
+    "description": "A sporty stripe hoodie, blending athletic style with everyday fashion.",
+    "category": "women-hoodies",
+    "image": "https://i.etsystatic.com/48311024/r/il/901bca/5708807161/il_300x300.5708807161_gtxa.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 150
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 143,
+    "title": "Bohemian Pattern Hoodie",
+    "price": 47.0,
+    "description": "A bohemian pattern hoodie, perfect for a unique and artistic look.",
+    "category": "women-hoodies",
+    "image": "https://i.etsystatic.com/47352219/c/1539/1539/230/488/il/c94efe/5477749366/il_300x300.5477749366_o3oi.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 144,
+    "title": "Minimalist Solid Color Hoodie",
+    "price": 42.0,
+    "description": "A minimalist solid color hoodie, ideal for a sleek and understated style.",
+    "category": "women-hoodies",
+    "image": "https://i.etsystatic.com/26154193/c/1012/803/0/0/il/2053ae/5384702936/il_340x270.5384702936_etjb.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 120
+    },
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": 145,
+    "title": "Asymmetrical Cut Hoodie",
+    "price": 53.0,
+    "description": "A chic asymmetrical cut hoodie, adding a modern twist to a classic garment.",
+    "category": "women-hoodies",
+    "image": "https://i.etsystatic.com/10603361/c/1000/794/0/0/il/c5b909/1873834057/il_340x270.1873834057_qedn.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 140
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": 146,
+    "title": "Tie-Dye Fun Hoodie",
+    "price": 48.0,
+    "description": "A fun and vibrant tie-dye hoodie, perfect for adding color to your day.",
+    "category": "women-hoodies",
+    "image": "https://i.etsystatic.com/28368190/c/2250/2250/0/0/il/36b758/4765750837/il_300x300.4765750837_3zw2.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 110
+    },
+    "sizes": ["XS", "S", "M", "L"]
+  },
+  {
+    "id": 147,
+    "title": "Lace-Up Detail Hoodie",
+    "price": 46.0,
+    "description": "An elegant hoodie with unique lace-up details, blending comfort with style.",
+    "category": "women-hoodies",
+    "image": "https://i.etsystatic.com/18019059/r/il/9b253e/1594083547/il_300x300.1594083547_fxd3.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 100
+    },
+    "sizes": ["S", "M", "L", "XL"]
+  }
+]
