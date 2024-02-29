@@ -63,6 +63,9 @@ Checkout: Cuando estés listo para realizar tu compra, ve a tu carrito y haz cli
 Para cerrar sesión, simplemente haz clic en el icono de Cerrar Sesión en el navbar. Esto te llevará de vuelta a la página de inicio de sesión.
 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a74adf90-a7a4-40dd-913f-1cd6fa8a4b85/deploy-status)](https://app.netlify.com/sites/trendy-trends/deploys)
+
+
 
 ## Contacto
 Si tienes preguntas, sugerencias o deseas contribuir al proyecto, no dudes en contactar:
