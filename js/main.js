@@ -61,7 +61,7 @@ function initializePage() {
     cart.renderCart();
 
     // ver si estamos en la pasarela de pago
-    if (window.location.pathname.endsWith("/pay")) {
+    if (window.location.pathname.includes("pay")) {
       cart.renderCartSummary(); 
     }
 
